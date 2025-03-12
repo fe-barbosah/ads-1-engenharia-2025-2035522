@@ -100,7 +100,17 @@ As reuniões do Scrum acontecem quando o mestre do Scrum, o proprietário do pro
 Kanban é um método baseado no Pensamento Lean e no Pensamento Ágil, voltado a melhorar a execução dos serviços, entregar valor de maneira constante e evoluir continuamente o sistema de produção, através da resolução sistemática de problemas
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+Extreme Programming (XP) é uma metodologia ágil que se concentra em qualidade de software e adaptabilidade. Seus princípios fundamentais são:
+
+Comunicação – Incentiva a troca constante de informações entre membros da equipe para evitar falhas por falta de entendimento.
+
+Simplicidade – O código deve ser o mais simples possível para atender aos requisitos, evitando complexidade desnecessária.
+
+Feedback – Feedback rápido e contínuo, tanto do cliente quanto dos testes automatizados, para detectar erros cedo e melhorar o processo.
+
+Coragem – Encoraja mudanças sempre que necessário, sem medo de refatorar código ou alterar requisitos.
+
+Respeito – Os membros da equipe devem se respeitar mutuamente, garantindo um ambiente colaborativo e produtivo.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
